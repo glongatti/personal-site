@@ -69,7 +69,7 @@ export default function Home() {
     },
     {
       company: "Zeronova",
-      position: "Co-Founder",
+      position: "Co-Founder | Sales & Marketing Director",
       date: "August 2021 - January 2025",
       details: [
         "Co-founded Zeronova, an accelerator for mentors focused on scaling high-ticket product businesses.",
