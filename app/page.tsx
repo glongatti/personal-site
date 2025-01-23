@@ -103,7 +103,7 @@ export default function Home() {
     {
       company: "MB Labs Aplicativos",
       position: "Software Developer",
-      date: "February 2020 - September 2020",
+      date: "October 2019 - September 2020",
       details: [
         "Participated in building MVPs for startups, focusing on feature development including payment gateway integrations, geolocation functionalities, and responsive layouts.",
         "Implemented real-time chat with GraphQL, Firebase applications (Cloud Messaging, version control, authentication), and Google APIs integration.",
